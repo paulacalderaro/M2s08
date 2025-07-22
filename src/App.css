@@ -1,0 +1,15 @@
+.container-cardapio {
+
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: space-around;
+ 
+}
+
+section h2{
+
+  font-size: 20px ;
+  font-weight: bold;
+  padding: 10px;
+}
